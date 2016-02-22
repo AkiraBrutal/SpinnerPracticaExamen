@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpinnerPracticaExamen</string>
+    <string-array name="curso">
+        <item>DAM</item>
+        <item>Electricidad</item>
+        <item>Mecanica</item>
+    </string-array>
+    <string-array name="alumno_DAM">
+        <item>DAM1</item>
+        <item>DAM2</item>
+        <item>DAM3</item>
+    </string-array>
+    <string-array name="alumno_Elec">
+        <item>ELEC1</item>
+        <item>ELEC2</item>
+        <item>ELEC3</item>
+    </string-array>
+    <string-array name="alumno_Mec">
+        <item>MEC1</item>
+        <item>MEC2</item>
+        <item>MEC3</item>
+    </string-array>
+</resources>
